@@ -1,0 +1,119 @@
+Categoría,Subcategoría,Archivo JSON,Descripción
+Raíz,,AI product imagines.json,Workflow para generar imágenes de productos con IA
+AI_Research_RAG_and_Data_Analysis,Análisis Web,Analyze tradingview.com charts with Chrome extension N8N and OpenAI.json,Análisis de gráficos de TradingView
+AI_Research_RAG_and_Data_Analysis,Web Scraping,Autonomous AI crawler.json,Crawler de web autónomo
+AI_Research_RAG_and_Data_Analysis,RAG,Build a Financial Documents Assistant using Qdrant and Mistral.ai.json,Asistente de documentos financieros
+AI_Research_RAG_and_Data_Analysis,RAG,Building RAG Chatbot for Movie Recommendations with Qdrant and Open AI.json,Chatbot RAG para recomendaciones
+Airtable,Gestión,AI Agent for project management and meetings with Airtable and Fireflies.json,Agente para gestión de proyectos
+Airtable,Chat,AI Agent to chat with Airtable and analyze data.json,Asistente para consultar datos
+Database_and_Storage,Chat DB,Chat with Postgresql Database.json,Chatbot para consultar PostgreSQL
+Database_and_Storage,SQL,Generate SQL queries from schema only - AI-powered.json,Generador de queries SQL automático
+Database_and_Storage,Chat DB,MongoDB AI Agent - Intelligent Movie Recommendations.json,Agente para MongoDB
+Discord,Bots,Discord AI-powered bot.json,Bot inteligente de categorización
+Discord,Automatización,Send daily translated Calvin and Hobbes Comics to Discord.json,Envío automático de cómics
+Forms_and_Surveys,Formularios,Conversational Interviews with AI Agents and n8n Forms.json,Entrevistas conversacionales
+Forms_and_Surveys,Suscripción,Email Subscription Service with n8n Forms Airtable and AI.json,Servicio de suscripción
+Gmail_and_Email_Automation,Respuestas,A Very Simple Human in the Loop Email Response System Using AI and IMAP.json,Sistema con aprobación humana
+Gmail_and_Email_Automation,Respuestas,AI-powered email processing autoresponder and response approval.json,Respuestas automáticas
+Gmail_and_Email_Automation,Análisis,Analyze Sort Suspicious Email Contents with ChatGPT.json,Análisis de emails sospechosos
+Gmail_and_Email_Automation,Clasificación,Auto Categorise Outlook Emails with AI.json,Categorización de Outlook
+Gmail_and_Email_Automation,Etiquetado,Auto-label incoming Gmail messages with AI nodes.json,Etiquetado automático
+Gmail_and_Email_Automation,Resumen,Email Summary Agent.json,Agente de resumen diario
+Google_Drive_and_Google_Sheets,Publicación,Author and Publish Blog Posts From Google Sheets.json,Publicación automática de posts
+Google_Drive_and_Google_Sheets,IA,Automated End-to-End Fine-Tuning of OpenAI Models with Google Drive Integration.json,Fine-tuning con Drive
+Google_Drive_and_Google_Sheets,Imágenes,Automatic Background Removal for Images in Google Drive.json,Remover de fondos automático
+Google_Drive_and_Google_Sheets,Chat,Chat with a Google Sheet using AI.json,Chat sobre datos de Sheets
+HR_and_Recruitment,Chat,BambooHR AI-Powered Company Policies and Benefits Chatbot.json,Chatbot de políticas
+HR_and_Recruitment,Procesamiento,CV Screening with OpenAI.json,Análisis automático de CVs
+HR_and_Recruitment,Gestión,HR Job Posting and Evaluation with AI.json,Publicación de empleos
+Instagram_Twitter_Social_Media,Chat,AI agent for Instagram DM_inbox. Manychat + Open AI integration.json,Agente para responder DMs
+Instagram_Twitter_Social_Media,Diseño,Create dynamic Twitter profile banner.json,Generador de banners dinámicos
+Instagram_Twitter_Social_Media,Contenido,Generate Instagram Content from Top Trends with AI Image Generation.json,Generador de contenido
+Instagram_Twitter_Social_Media,Generación,OpenAI-powered tweet generator.json,Generador de tweets con IA
+Notion,Feedback,Add positive feedback messages to a table in Notion.json,Agregador de feedback positivo
+Notion,Análisis,Analyse papers from Hugging Face with AI and store them in Notion.json,Análisis y almacenamiento de papers
+Notion,Research,Automate Competitor Research with Exa.ai Notion and AI Agents.json,Research de competencia automático
+Notion,Chat,Notion AI Assistant Generator.json,Generador de asistentes personalizados
+OpenAI_and_LLMs,Chat,AI agent chat.json,Chat conversacional simple con IA
+OpenAI_and_LLMs,Agentes,AI Agent with Ollama for current weather and wiki.json,Agente con herramientas externas
+OpenAI_and_LLMs,Chat,AI chatbot that can search the web.json,Chatbot con búsqueda web integrada
+OpenAI_and_LLMs,Análisis,AI Crew to Automate Fundamental Stock Analysis.json,Análisis de acciones
+OpenAI_and_LLMs,Análisis,AI Customer feedback sentiment analysis.json,Análisis de sentimiento
+OpenAI_and_LLMs,Generación,AI-Generated Summary Block for WordPress Posts.json,Resúmenes para WordPress
+OpenAI_and_LLMs,Marketing,AI-Powered Social Media Amplifier.json,Amplificador de redes sociales
+OpenAI_and_LLMs,Multimedia,Narrating over a Video using Multimodal AI.json,Narrador automático de videos
+OpenAI_and_LLMs,Visión,Automate Image Validation Tasks using AI Vision.json,Validador automático de imágenes
+OpenAI_and_LLMs,Visión,Easy Image Captioning with Gemini 1.5 Pro.json,Generador de captions de imágenes
+OpenAI_and_LLMs,Generación,Configure your own Image Creation API Using OpenAI DALLE-3.json,API personalizada de imágenes
+OpenAI_and_LLMs,Audio,Convert text to speech with OpenAI.json,Síntesis de voz
+OpenAI_and_LLMs,RAG,AI-Powered RAG Workflow For Stock Earnings Report Analysis.json,RAG para análisis de reportes
+OpenAI_and_LLMs,Soporte,AI-powered WooCommerce Support-Agent.json,Soporte automático para WooCommerce
+PDF_and_Document_Processing,Chat,Ask questions about a PDF using AI.json,Chat sobre contenido de PDFs
+PDF_and_Document_Processing,Notas,Breakdown Documents into Study Notes,Generador automático de notas
+PDF_and_Document_Processing,Chat,Chat with PDF docs using AI (quoting sources).json,Chat con atribución de fuentes
+PDF_and_Document_Processing,Conversión,Convert URL HTML to Markdown Format and Get Page Links.json,Convertidor HTML a Markdown
+PDF_and_Document_Processing,OCR,CV Resume PDF Parsing with Multimodal Vision AI.json,Parser automático de CVs
+PDF_and_Document_Processing,Extracción,Extract text from PDF and image using Vertex AI,Extracción a CSV
+PDF_and_Document_Processing,OCR,Invoice data extraction with LlamaParse and OpenAI.json,Parser automático de facturas
+PDF_and_Document_Processing,Edición,Manipulate PDF with Adobe developer API.json,Editor de PDFs
+PDF_and_Document_Processing,Privacidad,Remove Personally Identifiable Information PII from CSV,Anonimizador de datos
+PDF_and_Document_Processing,Audio,Transcribe Audio Files Summarize with GPT-4 and Store in Notion.json,Audio a resumen y almacenamiento
+Slack,Monitoreo,AI-Powered Information Monitoring,Monitor automático de información
+Slack,Bot,Creating a AI Slack Bot with Google Gemini.json,Bot Slack inteligente
+Slack,Soporte,Customer Support Channel and Ticketing System,Sistema de ticketing
+Slack,Bot,Slack slash commands AI Chat Bot.json,Chatbot por comandos slash
+Telegram,Bot,Agentic Telegram AI bot with LangChain nodes,Bot agentico avanzado
+Telegram,Bot,AI-Powered Children_s Arabic Storytelling on Telegram.json,Bot de historias en árabe
+Telegram,Bot,AI-Powered Children_s English Storytelling on Telegram,Bot de historias infantiles
+Telegram,Bot,Angie Personal AI Assistant with Telegram Voice and Text.json,Asistente personal por voz
+Telegram,Análisis,Automated AI image analysis and response via Telegram.json,Analizador automático de imágenes
+Telegram,Chat,Chat with OpenAIs GPT via a simple Telegram Bot.json,Chat simple con GPT
+Telegram,Moderación,Detect toxic language in Telegram messages.json,Detector de lenguaje tóxico
+Telegram,Generación,Image Creation with OpenAI and Telegram.json,Generador de imágenes
+Telegram,Recetas,Send a random recipe once a day to Telegram.json,Envío diario de recetas
+Telegram,Chat,Telegram AI Chatbot.json,Chatbot general para Telegram
+Telegram,Memoria,Telegram Bot with Supabase memory,Bot con memoria persistente
+Telegram,Chat,Telegram chat with PDF.json,Chat sobre contenido de PDFs
+Telegram,Integración,Telegram to Spotify with OpenAI.json,Integrador Telegram-Spotify
+Telegram,Traducción,Translate Telegram audio messages with AI,Traductor de audio multiidioma
+WhatsApp,Sales,Automate Sales Meeting Prep with AI APIFY,Preparación automática de reuniones
+WhatsApp,Tutorial,Building Your First WhatsApp Chatbot.json,Tutorial completo de chatbot
+WhatsApp,Bot,Complete business WhatsApp AI-Powered RAG Chatbot,Chatbot RAG empresarial
+WhatsApp,Respuestas,Respond to WhatsApp Messages with AI,Respuestas automáticas inteligentes
+WordPress,Automatización,Auto-Categorize blog posts in wordpress using A.I..,Categorizador automático
+WordPress,Contenido,Automate Blog Creation in Brand Voice with AI.json,Generador de contenido con voz
+WordPress,Contenido,Automate Content Generator for WordPress with DeepSeek R1.json,Generador avanzado de contenido
+WordPress,Automatización,Auto-Tag Blog Posts in WordPress with AI.json,Etiquetador automático
+WordPress,Chat,WordPress - AI Chatbot to enhance user experience,Chatbot para visitantes del sitio
+WordPress,Escritura,Write a WordPress post with AI,Escritor automático de posts
+DevOps,Infraestructura,docker-compose-controller.json,Controlador de Docker Compose
+DevOps,Infraestructura,linux-update-via-webhook.json,Actualización de Linux por webhook
+Other,Referencia,ALL_unique_nodes.json,Referencia de todos los nodos únicos en n8n
+Other_Integrations_and_Use_Cases,Análisis,Analyze feedback and send a message on Mattermost.json,Análisis con notificaciones
+Other_Integrations_and_Use_Cases,AWS,Analyze feedback using AWS Comprehend,Análisis de sentimiento con AWS
+Other_Integrations_and_Use_Cases,Utilidades,API Schema Extractor.json,Extractor automático de esquemas API
+Other_Integrations_and_Use_Cases,Redes Sociales,Automate Pinterest Analysis AI-Powered Content Suggestions,Análisis automático de Pinterest
+Other_Integrations_and_Use_Cases,Web,Automate Screenshots with URLbox Analyze them with AI.json,Screenshots automáticos con análisis
+Other_Integrations_and_Use_Cases,Seguridad,Automate SIEM Alert Enrichment,Enriquecimiento automático de alertas
+Other_Integrations_and_Use_Cases,CMS,Automate testimonials in Strapi with n8n.json,Automatización de testimonios
+Other_Integrations_and_Use_Cases,DevOps,ChatGPT Automatic Code Review in Gitlab MR.json,Revisor automático de código
+Other_Integrations_and_Use_Cases,Ticketing,Classify new bugs in Linear with OpenAI,Clasificador de bugs automático
+Other_Integrations_and_Use_Cases,CRM,Create update and get a profile in Humantic AI.json,Gestión de perfiles
+Other_Integrations_and_Use_Cases,Chat,Enhance Customer Chat by Buffering Messages with Twilio,Chat buffer con Twilio
+Other_Integrations_and_Use_Cases,Análisis,Hacker News Throwback Machine,Archivador de Hacker News
+Other_Integrations_and_Use_Cases,Calendario,Handling Appointment Leads and Follow-up,Gestor automático de citas
+Other_Integrations_and_Use_Cases,Meteorología,Integrating AI with Open-Meteo API,Predicción del clima mejorada
+Other_Integrations_and_Use_Cases,Tutorial,Introduction to the HTTP Tool.json,Tutorial de herramienta HTTP
+Other_Integrations_and_Use_Cases,Wiki,KB Tool - Confluence Knowledge Base.json,Base de conocimiento de Confluence
+Other_Integrations_and_Use_Cases,Chat,LINE Assistant with Google Calendar and Gmail,Asistente para LINE
+Other_Integrations_and_Use_Cases,Música,Monthly Spotify Track Archiving and Playlist Classification.json,Archivador y clasificador de Spotify
+Other_Integrations_and_Use_Cases,Audio,Obsidian Notes Read Aloud using AI,Conversor de notas a podcast
+Other_Integrations_and_Use_Cases,Ecommerce,Optimize Update Printify Title and Description,Optimizer de Printify
+Other_Integrations_and_Use_Cases,CRM,Qualify replies from Pipedrive persons with AI.json,Calificador de respuestas
+Other_Integrations_and_Use_Cases,Voz,Siri AI Agent Apple Shortcuts,Agente de voz por Siri
+Other_Integrations_and_Use_Cases,Automatización,Text automations using Apple Shortcuts.json,Automatizaciones de texto
+Other_Integrations_and_Use_Cases,Productividad,Use AI to organize your Todoist Inbox.json,Organizador de Todoist
+Other_Integrations_and_Use_Cases,Utilidades,Using External Workflows as Tools in n8n.json,Workflows como herramientas
+Other_Integrations_and_Use_Cases,Marketing,UTM Link Creator QR Code Generator,Generador de UTMs y códigos QR
+Other_Integrations_and_Use_Cases,Datos,Visualize your SQL Agent queries,Visualización de queries SQL
+Other_Integrations_and_Use_Cases,Reuniones,Zoom AI Meeting Assistant,Asistente automático de reuniones
